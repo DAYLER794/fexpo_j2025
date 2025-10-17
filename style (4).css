@@ -1,0 +1,31 @@
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e25858;
+            color: #333;
+            margin: 0;
+        }
+
+        p {
+            font-size: xx-large;
+            background-color: #e96c5b;
+            color: rgb(2, 1, 1);
+            text-align: center;
+        }
+
+      
+
+        h2 {
+            background-color: #fa8f85;
+            color: #fc0303;
+            font-size: xx-large;
+        }
+       
+
+        ul {
+            background-color: #c0392b;
+            
+            color: #000000;
+            font-size: xx-large;
+        }
+    

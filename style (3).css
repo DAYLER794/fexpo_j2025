@@ -1,0 +1,34 @@
+h1 {
+            font-family: Arial, sans-serif;
+            background-color: #eb86c1;
+            color: #e94f25;
+            margin: 0;
+            padding: 0;
+ }
+
+ body {
+            background-color: #ebcbd8;
+            text-align: center;
+           
+ }
+
+ p {
+            color: rgb(148, 22, 142);
+            text-decoration: none;
+            font-size: xx-large;
+ }
+
+      
+
+ h2 {
+            color: #ffffff;
+            font-size: xx-large;
+            background-color: #f7bacd;
+ }
+
+ ul {
+            background-color: #f8c8dc;
+            text-align: center;
+           font-size: xx-large;
+           color: #c85a7c;
+    }

@@ -1,0 +1,16 @@
+iframe{
+    width: 900px;;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(106, 64, 255);
+    
+    
+}
+h1{
+    color: blue;
+    background-color: rgb(2, 161, 235);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
